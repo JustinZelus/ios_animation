@@ -12,6 +12,9 @@
 4.20 iOS Tab Bar Open Source UI anmation
 - https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d
 
+5.iOS中使用blend改变图片颜色 
+- https://onevcat.com/2013/04/using-blending-in-ios/
+
 # iphone X
 1.Development Tutorial for iPhone X
 - https://www.raywenderlich.com/327-development-tutorial-for-iphone-x
